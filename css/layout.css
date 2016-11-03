@@ -1503,7 +1503,7 @@ section > header {
   /* background: url("layout/portfolio_section.svg") no-repeat top left; */
 }
 #about-section {
-  height: 567px;
+  height: 800px;
   background: url("layout/about_section.png") no-repeat top left;
 }
 #skills-section {
