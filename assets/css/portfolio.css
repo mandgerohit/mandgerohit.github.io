@@ -319,7 +319,9 @@ i.service-icon:hover {
 .bg-bind-dark { background: url('../img/bg/binding_dark.png') repeat; }
 .bg-bind-light { background: url('../img/bg/classy_fabric.png') repeat; }
 .bg-bind-nyc { background: url('../img/bg/nyc.png') no-repeat; background-size: cover }
-.bg-bind-work { background: url('../img/bg/work.png') no-repeat; }
+.bg-bind-wood { background: url('../img/bg/wood.png') no-repeat; background-size: cover }
+.bg-bind-work { background: url('../img/bg/work.png') no-repeat; background-size: cover }
+.bg-bind-education { background: url('../img/bg/education.png') no-repeat; background-size: cover }
 
 
 /***********
