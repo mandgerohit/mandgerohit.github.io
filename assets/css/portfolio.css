@@ -318,6 +318,8 @@ i.service-icon:hover {
 .bg-welcome { background: url('../img/bg/dark_mosaic.png') repeat; }
 .bg-bind-dark { background: url('../img/bg/binding_dark.png') repeat; }
 .bg-bind-light { background: url('../img/bg/classy_fabric.png') repeat; }
+.bg-bind-nyc { background: url('../img/bg/nyc.png') no-repeat; background-size: cover }
+.bg-bind-work { background: url('../img/bg/work.png') no-repeat; }
 
 
 /***********
