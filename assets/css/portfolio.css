@@ -315,13 +315,19 @@ i.service-icon:hover {
  * Backgrounds *
  ***************/
 .bg-clear { background: rgba(0,0,0,.85); }
-.bg-welcome { background: url('../img/bg/dark_mosaic.png') repeat; }
+.bg-bind-welcome { background: url('../img/bg/dark_mosaic.png') repeat; }
 .bg-bind-dark { background: url('../img/bg/binding_dark.png') repeat; }
 .bg-bind-light { background: url('../img/bg/classy_fabric.png') repeat; }
 .bg-bind-nyc { background: url('../img/bg/nyc.png') no-repeat; background-size: cover }
 .bg-bind-wood { background: url('../img/bg/wood.png') no-repeat; background-size: cover }
 .bg-bind-work { background: url('../img/bg/work.png') no-repeat; background-size: cover }
 .bg-bind-education { background: url('../img/bg/education.png') no-repeat; background-size: cover }
+.bg-bind-binary { background: url('../img/bg/binary.png') no-repeat; background-size: cover }
+.bg-bind-world { background: url('../img/bg/world.png') no-repeat; background-size: cover }
+.bg-bind-mumbai { background: url('../img/bg/mumbai.png') no-repeat; background-size: cover }
+.bg-bind-grass { background: url('../img/bg/grass.png') no-repeat; background-size: cover }
+.bg-bind-award { background: url('../img/bg/award.png') no-repeat; background-size: cover }
+.bg-bind-bulb { background: url('../img/bg/bulb.png') no-repeat; background-size: cover }
 
 
 /***********
